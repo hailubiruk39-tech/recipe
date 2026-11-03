@@ -1,0 +1,38 @@
+.all{
+  background-color: rgb(68, 114, 229);
+  height: 350px;
+  border-radius: 36px;
+  border: 1px solid rgb(107, 128, 235) ;
+}
+.continer{
+    display: flex;
+    justify-content: center;
+}
+
+div.box1
+{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+  width: 120px;
+  height: auto;
+  font-size: 24px;
+  font-family:'Lucida Sans';
+}
+input{
+  width: auto;
+  height: 17px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: solid black 1px;
+  border-radius: 9px;
+}
+button{
+  width: auto;
+  height: 20px;
+  box-sizing: border-box;
+  border-radius: 9px;
+  margin-left:30px ;
+}
